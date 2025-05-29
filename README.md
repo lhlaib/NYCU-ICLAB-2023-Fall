@@ -20,11 +20,8 @@
 
 覺得這份筆記對你有幫助嗎？歡迎在 GitHub 上點個 Star ⭐️，讓更多人看到這份資源！
 
-<!-- Star button -->
-<iframe src="https://ghbtns.com/github-btn.html?user=lhlaib&repo=NYCU-ICLAB-2023-Fall&type=star&count=true" frameborder="0" scrolling="0" width="100" height="20"></iframe>
+[![GitHub Stars](https://img.shields.io/github/stars/lhlaib/NYCU-ICLAB-2023-Fall.svg?style=social)](https://github.com/lhlaib/NYCU-ICLAB-2023-Fall) [![GitHub Follow](https://img.shields.io/github/followers/lhlaib?label=Follow&style=social)](https://github.com/lhlaib)
 
-<!-- Follow button -->
-<iframe src="https://ghbtns.com/github-btn.html?user=lhlaib&type=follow&count=true" frameborder="0" scrolling="0" width="130" height="20"></iframe>
 
 ## 📚 目錄
 
